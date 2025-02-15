@@ -1,9 +1,10 @@
+```Bash
 git clone --recursive git@github.com:RoyBellingan/boostDeleteAtPointer.git
 cd boostDeleteAtPointer/
 cmake .
 make -j 8
 ./boostDeleteAtPointer
-
+```
 it should produce 
 ```JSON
 Initial Json:
