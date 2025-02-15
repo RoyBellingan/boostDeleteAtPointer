@@ -1,0 +1,3 @@
+[submodule "boostjson"]
+	path = boostjson
+	url = git@github.com:RoyBellingan/boostjson.git
